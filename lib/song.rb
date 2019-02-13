@@ -72,7 +72,7 @@ end
 #   #new
 #     takes in three arguments: a name, artist and genre
 #   - The way I was able to complete this first lab was to first create an instance class called Song. 
-#              class Dog 
+#              class Song
 #               end 
 # than define initialize set to three arguments - name, artist, and genre.
 #         def initialize(name, artist, genre)

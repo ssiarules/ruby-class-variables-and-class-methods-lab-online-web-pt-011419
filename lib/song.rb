@@ -97,7 +97,7 @@ end
 #              @@.count 
 #           end 
 # I than have to create a class variable @@count += 1 
-#   The count of albums should go up as soon as a new album is created, or initialized,  we are using the @@album_count class variable, inside of our #initialize method, which is an instance method. We are saying: when a new album is created, access the @@album_count class variable and increment its value by 1.
+#   The count of albums should go up as soon as a new album is created, or initialized,  we are using the @@artist_count class variable, inside of our #initialize method, which is an instance method. We are saying: when a new album is created, access the @@album_count class variable and increment its value by 1.
 #     the self keyword refers to the entire class itself, not to an instance of the class.
 #       A class variable is accessible to the entire class.
 #   .artists
